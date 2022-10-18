@@ -3,7 +3,7 @@
 
 Scripted Rain and Water splash effect with CSS Cloud using  HTML canvas and Javascript.
 
-[Youtube Video Link 🤍](https://youtu.be/31R_-Gbgrj4)
+[Youtube Video Link 🤍](https://www.youtube.com/watch?v=31R_-Gbgrj4)
 ## Screenshot
 
 ![App Screenshot](https://i.ibb.co/xDfK491/Thumbnail.png)
